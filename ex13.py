@@ -1,3 +1,4 @@
+# Crie uma variável que receba um valor inteiro. Use um laço de repetição para imprimir a tabuada desse número, de 1 a 10
 
 numero = int(input("Deseja que seja feit a tabuada de qual número? "))
 
